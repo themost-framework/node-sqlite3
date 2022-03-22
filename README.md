@@ -1,3 +1,5 @@
+### Important note: This package is a fork of [node-sqlite3@5.0.2](https://github.com/mapbox/node-sqlite3) and fixes a known vulnerability issue of tar@^2.0.0 via node-gyp@3.8.0
+
 Asynchronous, non-blocking [SQLite3](https://sqlite.org/) bindings for [Node.js](http://nodejs.org/).
 
 [![NPM](https://nodei.co/npm/sqlite3.png?downloads=true&downloadRank=true)](https://nodei.co/npm/sqlite3/)
