@@ -40,14 +40,14 @@
     "url": "git://github.com/mapbox/node-sqlite3.git"
   },
   "dependencies": {
-    "node-addon-api": "^4.2.0",
-    "@mapbox/node-pre-gyp": "^1.0.0"
+    "@mapbox/node-pre-gyp": "^1.0.0",
+    "node-addon-api": "^4.2.0"
   },
   "devDependencies": {
     "@mapbox/cloudfriend": "^1.9.0",
     "aws-sdk": "2.x",
     "eslint": "^7.32.0",
-    "mocha": "^5.2.0"
+    "mocha": "^9.2.2"
   },
   "peerDependencies": {
     "node-gyp": "7.x"
